@@ -1,3 +1,3 @@
 variable "bucket_name" {
-    default = "40n-terraform-bucket"
+    default = "40n-terraform-bucket-1"
 }
